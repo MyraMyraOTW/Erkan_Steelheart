@@ -23,7 +23,7 @@
 ## Abilities
 
 Ability | Score | Bonus | Proficiency | Saving Throw  
---- | --- | --- | ---  
+--- | --- | --- | --- | ---
 Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 14 | +2 | | +2  
 Constitution | 14 | +2 | | +2  
 Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) | 17 | +3 | ![check](https://i.imgur.com/84fRg7x.png) | +6  

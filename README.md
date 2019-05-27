@@ -22,14 +22,14 @@
 
 ## Abilities
 
-Ability | Score | Bonus | Proficiency | Saving Throw
---- | --- | --- | ---
-Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 14 | +2 | | +2
-Constitution | 14 | +2 | | +2
-Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) | 17 | +3 | ![check](https://i.imgur.com/84fRg7x.png) | +6
-Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 10 | 0 | ![check](https://i.imgur.com/84fRg7x.png) | +3
-Strength ![Strength](https://i.imgur.com/Fh83ei3.png) | 6 | -2 | | -2
-Wisdom ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 10 | 0 | | 0
+Ability | Score | Bonus | Proficiency | Saving Throw  
+--- | --- | --- | ---  
+Charisma ![Charisma](https://i.imgur.com/m1q3OzE.png) | 14 | +2 | | +2  
+Constitution | 14 | +2 | | +2  
+Dexterity ![Dexterity](https://i.imgur.com/wMNL0JE.png) | 17 | +3 | ![check](https://i.imgur.com/84fRg7x.png) | +6  
+Intelligence ![Intelligence](https://i.imgur.com/aJvt6zX.png) | 10 | 0 | ![check](https://i.imgur.com/84fRg7x.png) | +3  
+Strength ![Strength](https://i.imgur.com/Fh83ei3.png) | 6 | -2 | | -2  
+Wisdom ![Wisdom](https://i.imgur.com/kCsdGv9.png) | 10 | 0 | | 0  
 
 ## Skills
 

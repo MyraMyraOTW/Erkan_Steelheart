@@ -10,6 +10,9 @@ Clothes, Common  | 5 SP | 3 lb. | A stained and well used pair of clothes that E
 Leather Armour  | 10 GP | 10 lb. | The basic armour provided by the Uungerthold guard.
   |   |   |
 Grappling Crossbow  | 25 GP | 7 lb. | Custom crossbow made to fire Grappling Bolts, cannot fire normal bolts due to custom bolt channel which allows the rope attached to the Grappling Bolt to feed from the reel on the back of the crossbow.
+Light Crossbow | 25 GP | 7 lb. |
+Crossbow Bolts (40) |  | 3 lb. |
+Dagger | 2 GP | 1 lb. |  
 Modified Arquebus  | 250 GP | 10 lb. | An Arquebus modified by Erkan to have a breech loading mechanism enabling him to reload significantly faster. The exotic nature of the mechanism means others still take a long time to load the weapon.
 20 Bullets  | 6 GP | 4 lb. |
 
@@ -41,4 +44,4 @@ Waterskin  | 2 SP | 5 lb. |
 
 **Weight:** 88.5 lb.  
 **Cost:** 331 GP, 1 SP  
-**Cost w/o Arquebus:** 81.1 GP
+**Cost w/o Arquebus:** 71.9 GP

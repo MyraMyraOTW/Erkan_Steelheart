@@ -18,6 +18,18 @@
 
 ## Combat
 
+##### Light Crossbow
+Hit: +6
+Attack: 1d8 Piercing +3  
+Range: 80/320  
+Properties: Loading, Two-Handed
+
+##### Dagger
+Hit: +6
+Attack: 1d4 Piercing +3
+Range: 20/60  
+Properties: Finesse, Light, Thrown
+
 ---
 
 ## Abilities
@@ -129,7 +141,7 @@ I don't fight fair and would rather kill someone when they're at an extreme disa
 
 Erkan's story began as a stowaway egg on an airship, stolen away from his nest by some wayward adventurers. The trip was uneventful safe for the adventurers being tossed overboard for not working. The captain, a gnomish woman decided to keep the egg.
 
-Erkan was adopted by the gnomish woman and a dwarven man, Rema and Bodger Steelheart. His early life was filled with helping his mother and father around their airship and doing chores for the crew. He learned the ship inside and out and gained many skills.
+Erkan was adopted by the gnomish woman and a dwarven man, Rema and Bodger Steelheart. His early life was filled with helping his mother and father around their airship the twilight falcon (an old mercenary ship) and doing chores for the crew. He learned the ship inside and out and gained many skills.
 
 Eventually he left his parents to make his own way in the Uungerthold  guard. He experienced his fair share of discrimination but ended up proving himself and gaining some friends. This lead him to working as a specialist under the Colonel's command.
 
@@ -144,11 +156,31 @@ Served as a Sapper for the Colonel. Worked operations involving the safe destruc
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
-  |   |   |   |  
+  | 60 |   | 3 | 1
 
 Item | Type | Amount | Worth | Weight | Attuned
 --- | --- | --- | --- | --- | ---
-  |   |   |   |   |  
+Clothes, Common  | Misc. | 1 | 5 SP | 3 lb. |
+Leather Armour | Armour | 1 | 10 GP | 10 lb. |
+Grappling Crossbow | Weapon | 1 | 25 GP | 7 lb. |
+Light Crossbow | Weapon | 1 | 25 GP | 7 lb. |
+Crossbow Bolts | Ammo | 40 | 2 GP | 3 lb. |
+Dagger | Weapon | 1 | 2 GP | 1 lb. |
+Bullets | Ammo | 20 | 6 GP | 4 lb. |
+Thieves' Tools | Tool | 1 | 25 GP | 1 lb. |
+Sappers Backpack | Misc. | 1 | 2 GP | 5 lb. |
+Bedroll | Misc. | 1 | 1 GP | 7 lb. |
+Crowbar | Misc. | 1 | 2 GP | 5 lb. |
+Hammer | Misc. | 1 | 1 GP | 3 lb. |
+Pitons | Misc. | 10 | 5 SP | 2.5 lb. |
+Mess Kit | Misc. | 1 | 2 SP | 1 lb. |
+Hemp Rope | Misc. | 50 | 1 GP | 10 lb. |
+String | Misc. | 20 | 2 SP | -- |
+Grappling Bolt | Ammo | 1 | 4 GP | 5 lb. |
+Rations | Misc. | 5 | 2.5 GP | 10 lb. |
+Waterskin | Misc. | Full | 2 SP | 5 lb. |
+
+**Total Weight:** 89.5 lbs.
 
 #### Priceless Items
 
@@ -165,3 +197,19 @@ My adventure begins with orders from the Colonel and directions given by one of 
 
 #### Day 2
 I have been introduced to the party by the Colonel and while receiving a hostile welcome from Jun, Heskan eventually gave me the benefit of the doubt. The Colonel gave the party a very lucrative mission rewarding lands worth ~2200 GP and 250 GP each. The Colonel requested I travel with the party to solve an issue at the damaged church. Two of my battle brothers have been charmed by the fishy smelling elf and I will do my best to get them home safe.
+
+We travelled to see an elf named Adallon on the other side of the city and talked about some information I did not have context for.
+
+While travelling to the Bedrock Inn, Golan and myself took  a shortcut and I got drunk. I ended up passing out on the stairs.
+
+#### Day 3
+I've spent the morning talking with Thoridin and learned of what the party has been up to while he's been around.
+
+At around 5 PM we headed out to the broken church.
+
+###### The Broken Church
+
+**Part 1**  
+We've made it to the broken church and managed to clear the top floor with not much issue. 1 casualty and 8 unconscious dwarven commoners. It appears we've been noticed by the foul creature within sadly. We've tied up 7 of the unconscious dwarves and are poised to enter the building.
+
+**Part 2**

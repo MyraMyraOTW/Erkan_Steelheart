@@ -156,7 +156,7 @@ Served as a Sapper for the Colonel. Worked operations involving the safe destruc
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
-  | 60 |   | 3 | 1
+  | 64 |   | 3 | 1
 
 Item | Type | Amount | Worth | Weight | Attuned
 --- | --- | --- | --- | --- | ---
@@ -166,7 +166,7 @@ Grappling Crossbow | Weapon | 1 | 25 GP | 7 lb. |
 Light Crossbow | Weapon | 1 | 25 GP | 7 lb. |
 Crossbow Bolts | Ammo | 40 | 2 GP | 3 lb. |
 Dagger | Weapon | 1 | 2 GP | 1 lb. |
-Bullets | Ammo | 20 | 6 GP | 4 lb. |
+Bullets | Ammo | 20 | 2 GP | 4 lb. |
 Thieves' Tools | Tool | 1 | 25 GP | 1 lb. |
 Sappers Backpack | Misc. | 1 | 2 GP | 5 lb. |
 Bedroll | Misc. | 1 | 1 GP | 7 lb. |

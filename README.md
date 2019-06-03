@@ -156,7 +156,7 @@ Served as a Sapper for the Colonel. Worked operations involving the safe destruc
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
-  | 64 |   | 3 | 1
+-- | 64 | -- | 3 | 1
 
 Item | Type | Amount | Worth | Weight | Attuned
 --- | --- | --- | --- | --- | ---

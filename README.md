@@ -18,6 +18,12 @@
 
 ## Combat
 
+##### Health Tracker
+Hit Point Current: 25
+
+##### Leather Armour
+Armour Class: 14
+
 ##### Light Crossbow
 Hit: +6
 Attack: 1d8 Piercing +3  
@@ -213,3 +219,4 @@ At around 5 PM we headed out to the broken church.
 We've made it to the broken church and managed to clear the top floor with not much issue. 1 casualty and 8 unconscious dwarven commoners. It appears we've been noticed by the foul creature within sadly. We've tied up 7 of the unconscious dwarves and are poised to enter the building.
 
 **Part 2**
+After entering the depths of the broken church we were attacked by some foul shadow beasts that stole the strength of my comrades. While difficult to fight the holy fire of our cleric Heskan purified them from this world. Moving deeper into the underground I was ambushed by my once battle brothers; Jun, Golan and myself were able to knock them unconscious. While Investigating a side door and tying up my battle brother a commotion occurred down the hall and Golan was knocked to the ground. After not seeing anyone come to Golan's aid I attempted to stabilize him, however my skills not being suited to this he bled out.

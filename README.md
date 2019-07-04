@@ -5,7 +5,7 @@
 ## Basic
 
 **Level:** 6  
-**XP:** 14000  
+**XP:** 15790  
 **Class:** Scout Rogue  
 **Hit Point Maximum:** 45  
 **Speed:** 30ft  
@@ -19,15 +19,21 @@
 ## Combat
 
 ##### Health Tracker
-Hit Point Current: 25
+Hit Point Current: 45
 
 ##### Leather Armour
 Armour Class: 14
 
 ##### Light Crossbow
-Hit: +6
+Hit: +6  
 Attack: 1d8 Piercing +3  
 Range: 80/320  
+Properties: Loading, Two-Handed
+
+##### Arquebus
+Hit: +6  
+Attack: 1d12 Piercing +3  
+Range: 40/120  
 Properties: Loading, Two-Handed
 
 ##### Dagger
@@ -162,33 +168,46 @@ Served as a Sapper for the Colonel. Worked operations involving the safe destruc
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
--- | 64 | -- | 3 | 1
+2 | 154 | -- | 26 | 1
 
-Item | Type | Amount | Worth | Weight | Attuned
---- | --- | --- | --- | --- | ---
-Clothes, Common  | Misc. | 1 | 5 SP | 3 lb. |
-Leather Armour | Armour | 1 | 10 GP | 10 lb. |
-Grappling Crossbow | Weapon | 1 | 25 GP | 7 lb. |
-Light Crossbow | Weapon | 1 | 25 GP | 7 lb. |
-Crossbow Bolts | Ammo | 40 | 2 GP | 3 lb. |
-Dagger | Weapon | 1 | 2 GP | 1 lb. |
-Bullets | Ammo | 20 | 2 GP | 4 lb. |
-Thieves' Tools | Tool | 1 | 25 GP | 1 lb. |
-Sappers Backpack | Misc. | 1 | 2 GP | 5 lb. |
-Bedroll | Misc. | 1 | 1 GP | 7 lb. |
-Crowbar | Misc. | 1 | 2 GP | 5 lb. |
-Hammer | Misc. | 1 | 1 GP | 3 lb. |
-Pitons | Misc. | 10 | 5 SP | 2.5 lb. |
-Mess Kit | Misc. | 1 | 2 SP | 1 lb. |
-Hemp Rope | Misc. | 50 | 1 GP | 10 lb. |
-String | Misc. | 20 | 2 SP | -- |
-Grappling Bolt | Ammo | 1 | 4 GP | 5 lb. |
-Rations | Misc. | 5 | 2.5 GP | 10 lb. |
-Waterskin | Misc. | Full | 2 SP | 5 lb. |
+Item | Type | Amount | Worth | Weight | Attuned | Description
+--- | --- | --- | --- | --- | --- | ---
+Clothes, Common  | Misc. | 1 | 5 SP | 3 lb. |  |
+Leather Armour | Armour | 1 | 10 GP | 10 lb. |  |
+Grappling Crossbow | Weapon | 1 | 25 GP | 7 lb. |  |
+Modified Arquebus | Weapon | 1 | 250 GP | 10 lb. |  | An Arquebus modified by Erkan to have a breech loading mechanism enabling him to reload significantly faster. The exotic nature of the mechanism means others still take a long time to load the weapon.
+Dagger | Weapon | 1 | 2 GP | 1 lb. |  |
+Thieves' Tools | Tool | 1 | 25 GP | 1 lb. |  |
+Bullets | Ammo | 20 | 2 GP | 4 lb. |  |
+Sappers Backpack | Misc. | 1 | 2 GP | 5 lb. |  |
+Bedroll | Misc. | 1 | 1 GP | 7 lb. |  |
+Crowbar | Misc. | 1 | 2 GP | 5 lb. |  |
+Hammer | Misc. | 1 | 1 GP | 3 lb. |  |
+Pitons | Misc. | 10 | 5 SP | 2.5 lb. |  |
+Mess Kit | Misc. | 1 | 2 SP | 1 lb. |  |
+Hemp Rope | Misc. | 50 | 1 GP | 10 lb. |  |
+String | Misc. | 20 | 2 SP | -- |  |
+Grappling Bolt | Ammo | 1 | 4 GP | 5 lb. |  |
+Rations | Misc. | 5 | 2.5 GP | 10 lb. |  |
+Waterskin | Misc. | Full | 2 SP | 5 lb. |  |
+1 Vial of red liquid | Potion | 1 | ? | -- |  | Probably a health potion
+Small piece of silk | Misc. | 1 | 10 GP? | -- |  |
+
+Terry Inventory [ Max: 225 ]  
+
+Item | Type | Amount | Worth | Weight | Attuned | Description  
+--- | --- | --- | --- | --- | --- | ---  
+Military Saddle | Misc. | 1 | 20 GP | 30 lb. |   |  
+Saddlebags | Misc. | 1 | 8 GP | 8 lb. |   |  
+Leather Horse Armour | Armour | 1 | 40 GP | 20 lb. |   |  
+Bullets | Ammo | 40 | 4 GP | 8 lb. |   |  
+Feed | Misc. | 4 | 2 SP | 40 lb. |   |  
 
 **Total Weight:** 89.5 lbs.
 
 #### Priceless Items
+
+**Purple Dragon Crest** The purple dragon crest is a mark of prestige for a soldier of Uungerthold which essentially guarantees a seat on a war council when the nation goes to war.
 
 **Adoption Certificate** with seals from both the gnomish and dwarvish crown offices. It includes Erkan's legal name, his parents names and signatures as well as the locations of the crown offices.
 
@@ -218,5 +237,8 @@ At around 5 PM we headed out to the broken church.
 **Part 1**  
 We've made it to the broken church and managed to clear the top floor with not much issue. 1 casualty and 8 unconscious dwarven commoners. It appears we've been noticed by the foul creature within sadly. We've tied up 7 of the unconscious dwarves and are poised to enter the building.
 
-**Part 2**
+**Part 2**  
 After entering the depths of the broken church we were attacked by some foul shadow beasts that stole the strength of my comrades. While difficult to fight the holy fire of our cleric Heskan purified them from this world. Moving deeper into the underground I was ambushed by my once battle brothers; Jun, Golan and myself were able to knock them unconscious. While Investigating a side door and tying up my battle brother a commotion occurred down the hall and Golan was knocked to the ground. After not seeing anyone come to Golan's aid I attempted to stabilize him, however my skills not being suited to this he bled out.
+
+**Part 3**  
+In KingStone keeps court I have recognized spymaster Torvir.

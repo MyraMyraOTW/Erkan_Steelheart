@@ -5,24 +5,25 @@
 ## Basic
 
 **Level:** 6  
-**XP:** 15790  
+**XP:** 20713  
 **Class:** Scout Rogue  
-**Hit Point Maximum:** 45  
+**Hit Point Maximum:** 39  
 **Speed:** 30ft  
 **Initiative:** +3  
 **Hit Dice:** 6d8  
-**Proficiency Bonus:** +3  
-**Carrying Capacity:** 90
+**Proficiency Bonus:** +3
+**Carrying Capacity:** 90  
+**Inspiration:** No
 
 ---
 
 ## Combat
 
 ##### Health Tracker
-Hit Point Current: 45
+Hit Point Current: 39
 
-##### Leather Armour
-Armour Class: 14
+##### Studded Leather Armour
+Armour Class: 15
 
 ##### Light Crossbow
 Hit: +6  
@@ -33,7 +34,7 @@ Properties: Loading, Two-Handed
 ##### Arquebus
 Hit: +6  
 Attack: 1d12 Piercing +3  
-Range: 40/120  
+Range: 140/420  
 Properties: Loading, Two-Handed
 
 ##### Dagger
@@ -159,7 +160,7 @@ Eventually he left his parents to make his own way in the Uungerthold  guard. He
 
 #### Allies + Organizations
 
-The Colonel's Honor Guard:  
+The Colonel's Honor Guard [Old]:  
 Served as a Sapper for the Colonel. Worked operations involving the safe destruction of dangerous materials and illegal properties. Was also involved in the disarming of traps placed in dwarven mining tunnels by the creatures that live there.
 
 ---
@@ -168,40 +169,31 @@ Served as a Sapper for the Colonel. Worked operations involving the safe destruc
 
 Platinum | Gold | Electrum | Silver | Copper
 --- | --- | --- | --- | ---
-2 | 154 | -- | 26 | 1
+377 | 195 | -- | 26 | 1
 
 Item | Type | Amount | Worth | Weight | Attuned | Description
 --- | --- | --- | --- | --- | --- | ---
 Clothes, Common  | Misc. | 1 | 5 SP | 3 lb. |  |
-Leather Armour | Armour | 1 | 10 GP | 10 lb. |  |
+Studded Leather Armour | Armour | 1 | 10 GP | 10 lb. |  |
 Grappling Crossbow | Weapon | 1 | 25 GP | 7 lb. |  |
-Modified Arquebus | Weapon | 1 | 250 GP | 10 lb. |  | An Arquebus modified by Erkan to have a breech loading mechanism enabling him to reload significantly faster. The exotic nature of the mechanism means others still take a long time to load the weapon.
-Dagger | Weapon | 1 | 2 GP | 1 lb. |  |
+Modified Arquebus w/ Scope | Weapon | 1 | 250 GP | 10 lb. |  | An Arquebus modified by Erkan to have a breech loading mechanism enabling him to reload significantly faster. The exotic nature of the mechanism means others still take a long time to load the weapon.
 Thieves' Tools | Tool | 1 | 25 GP | 1 lb. |  |
-Bullets | Ammo | 20 | 2 GP | 4 lb. |  |
+Bullets | Ammo | 55 | 2 GP | 2 lb. |  |
 Sappers Backpack | Misc. | 1 | 2 GP | 5 lb. |  |
 Bedroll | Misc. | 1 | 1 GP | 7 lb. |  |
 Crowbar | Misc. | 1 | 2 GP | 5 lb. |  |
 Hammer | Misc. | 1 | 1 GP | 3 lb. |  |
 Pitons | Misc. | 10 | 5 SP | 2.5 lb. |  |
 Mess Kit | Misc. | 1 | 2 SP | 1 lb. |  |
-Hemp Rope | Misc. | 50 | 1 GP | 10 lb. |  |
 String | Misc. | 20 | 2 SP | -- |  |
 Grappling Bolt | Ammo | 1 | 4 GP | 5 lb. |  |
 Rations | Misc. | 5 | 2.5 GP | 10 lb. |  |
 Waterskin | Misc. | Full | 2 SP | 5 lb. |  |
-1 Vial of red liquid | Potion | 1 | ? | -- |  | Probably a health potion
+Vial | Misc. | 1 |  | -- |  |
 Small piece of silk | Misc. | 1 | 10 GP? | -- |  |
-
-Terry Inventory [ Max: 225 ]  
-
-Item | Type | Amount | Worth | Weight | Attuned | Description  
---- | --- | --- | --- | --- | --- | ---  
-Military Saddle | Misc. | 1 | 20 GP | 30 lb. |   |  
-Saddlebags | Misc. | 1 | 8 GP | 8 lb. |   |  
-Leather Horse Armour | Armour | 1 | 40 GP | 20 lb. |   |  
-Bullets | Ammo | 40 | 4 GP | 8 lb. |   |  
-Feed | Misc. | 4 | 2 SP | 40 lb. |   |  
+Locks (No keys) | Misc. | 4 |   | 4 lb. |   |
+Dagger  | Weapon | 1 | ? | ? |   |  
+Platinum Ring | Misc. | 1 | 5 PP | -- |   |  
 
 **Total Weight:** 89.5 lbs.
 
@@ -210,8 +202,6 @@ Feed | Misc. | 4 | 2 SP | 40 lb. |   |
 **Purple Dragon Crest** The purple dragon crest is a mark of prestige for a soldier of Uungerthold which essentially guarantees a seat on a war council when the nation goes to war.
 
 **Adoption Certificate** with seals from both the gnomish and dwarvish crown offices. It includes Erkan's legal name, his parents names and signatures as well as the locations of the crown offices.
-
-**Basic summary of notes for cheaper airship production** With the wishes from one of the spymasters that the airship dock be overseen by Uungerthold with the promise of payment to the owners. This negotiation is not to be completed just to confirm they are open to the idea.
 
 ---
 
@@ -241,4 +231,17 @@ We've made it to the broken church and managed to clear the top floor with not m
 After entering the depths of the broken church we were attacked by some foul shadow beasts that stole the strength of my comrades. While difficult to fight the holy fire of our cleric Heskan purified them from this world. Moving deeper into the underground I was ambushed by my once battle brothers; Jun, Golan and myself were able to knock them unconscious. While Investigating a side door and tying up my battle brother a commotion occurred down the hall and Golan was knocked to the ground. After not seeing anyone come to Golan's aid I attempted to stabilize him, however my skills not being suited to this he bled out.
 
 **Part 3**  
-In KingStone keep's court I have recognized spymaster Torvir.
+In KingStone keep's court I have recognized spymaster Torvir. I have received some recognition and gained the Purple Dragon Crest from the King. We are waiting for a job from the King and have done some downtime. I have decided to fight some crime while on my downtime and I've purchased a pony named Terry.
+
+###### The Keep
+**The 183rd Standard Day**  
+We've failed our quest for the king but we've taken a job from the Colonel to deal with Octodad.
+
+###### The Sewers
+We've gone into the sewers and dealt with Octodad disguising the body as an "Alligator" and have returned to the Colonel.
+
+###### Downtime
+I have done the job required by the spymaster at the airship dock for securing the negotiation rights with Torvir.
+
+###### The Wastelands
+Our flight to the wastelands was interrupted by Sky Pirates and a small blue dragon. We've lost the ship and Adallon in the battle. The survivors other than the party were the captain.

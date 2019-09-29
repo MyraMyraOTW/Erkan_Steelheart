@@ -176,7 +176,7 @@ Item | Type | Amount | Worth | Weight | Attuned | Description
 Clothes, Common  | Misc. | 1 | 5 SP | 3 lb. |  |
 Studded Leather Armour | Armour | 1 | 10 GP | 10 lb. |  |
 Grappling Crossbow | Weapon | 1 | 25 GP | 7 lb. |  |
-Modified Arquebus w/ Scope | Weapon | 1 | 250 GP | 10 lb. |  | An Arquebus modified by Erkan to have a breech loading mechanism enabling him to reload significantly faster. The exotic nature of the mechanism means others still take a long time to load the weapon.
+Modified Arquebus w/ Scope | Weapon | 1 | 1250 GP | 10 lb. |  | An Arquebus modified by Erkan to have a breech loading mechanism enabling him to reload significantly faster. The exotic nature of the mechanism means others still take a long time to load the weapon. A spyglass is fashioned to the weapon allowing the user to be much more accurate at range.
 Thieves' Tools | Tool | 1 | 25 GP | 1 lb. |  |
 Bullets | Ammo | 55 | 2 GP | 2 lb. |  |
 Sappers Backpack | Misc. | 1 | 2 GP | 5 lb. |  |
@@ -244,4 +244,4 @@ We've gone into the sewers and dealt with Octodad disguising the body as an "All
 I have done the job required by the spymaster at the airship dock for securing the negotiation rights with Torvir.
 
 ###### The Wastelands
-Our flight to the wastelands was interrupted by Sky Pirates and a small blue dragon. We've lost the ship and Adallon in the battle. The survivors other than the party were the captain.
+Our flight to the wastelands was interrupted by Sky Pirates which and a small blue dragon. We've lost the ship and Adallon in the battle. The survivors other than the party were the captain.

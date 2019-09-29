@@ -7,7 +7,7 @@
 **Level:** 6  
 **XP:** 20713  
 **Class:** Scout Rogue  
-**Hit Point Maximum:** 39  
+**Hit Point Maximum:** 45  
 **Speed:** 30ft  
 **Initiative:** +3  
 **Hit Dice:** 6d8  
